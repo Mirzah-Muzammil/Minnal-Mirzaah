@@ -1,9 +1,25 @@
 .main{
-width: 400px;
-height: 500px;
-background-color: grey;
+width: 390px;
+height: 450px;
+padding-top: 10px;
+border-radius: 7%;
+background-image: linear-gradient(	#231F20, lightgrey);
 margin-left: 400px;
+border-style:ridge ;
 
+
+
+
+
+}
+.all{
+    background-image: url("images/—Pngtree—data\ the\ internet\ cloud\ network_926213.jpg");
+width:100%;
+height: 625px;
+padding-left: 20px;
+padding-top: 102px;
+outline: 0px;
+border-spacing: 1px;
 
 
 
@@ -12,13 +28,32 @@ margin-left: 400px;
     width: 80%;
     height: 35px;
     margin-left: 30px;
-    margin-top: 25px;
+    margin-top: 20px;
+    margin-bottom: 20px;
     pointer-events: none;
+    background-color:whitesmoke;
+    font-weight: bold;
+    color: black;
 }
 
 .btn {
-    width: 70px;
-    height: 45px;
-    margin-left: 18px;
-    margin-top: 31px;
+    width: 55px;
+    height: 52px;
+    background-color: blanchedalmond;
+    border-radius: 60%;
+    margin-left: 31px;
+    margin-top: 1px;
+    font-size: large;
+    font-style: italic;
+}
+
+.btnop {
+    width: 57px;
+    height: 43px;
+background-color: rgb(245, 181, 63);
+    border-radius: 60%;
+    margin-left: 31px;
+    margin-top: 20px;
+    font-size: large;
+    font-style: italic;
 }
